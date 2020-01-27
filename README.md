@@ -1,7 +1,6 @@
 # Megalovania Alarm Clock
  
-![Image of the alarm clock]
-(https://i.imgur.com/cBfMdTH.png)
+![Image of the alarm clock](https://i.imgur.com/cBfMdTH.png)
 
 Using an Arduino MEGA2560, I created an alarm clock using an LCD display, LED matrix, passive buzzer, 2 buttons, and a real time clock component in the circuit.
 
